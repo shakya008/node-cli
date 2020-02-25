@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "nodejs CLI app example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakya008/node-cli.git"
+  },
+  "author": "shyam",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^13.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/shakya008/node-cli/issues"
+  },
+  "homepage": "https://github.com/shakya008/node-cli#readme"
+}
